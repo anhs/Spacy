@@ -1,9 +1,5 @@
 /**
- * Utility methods for working with Poses Points and Vectors in Asteroids.
- * 
- * @author Nathan Sprague
- * @version V1.0, 10/15
- *
+ * Utility methods for working with Poses Points and Vectors in Asteroids. 
  */
 public class GameUtils
 {
