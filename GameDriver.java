@@ -2,10 +2,6 @@ import java.awt.Color;
 
 /**
  * Driver for the Asteroids application.
- * 
- * @author CS 159 Instructors
- * @version V1.0, 3/18
- *
  */
 public class GameDriver
 {
